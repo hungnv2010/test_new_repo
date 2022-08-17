@@ -17,6 +17,9 @@ import vn.pos365.cashierspos365.util.extension.getString
 import java.io.Serializable
 import java.util.*
 
+
+ok
+
 /**
  * @author  : Pos365
  * @Skype   : chukimmuoi
